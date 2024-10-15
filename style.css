@@ -18,43 +18,43 @@
     margin-bottom: 20px;
   }
 
-  .nav {
-   background-color: indigo;
-   padding: 20px;
+  .navigation {
    display: flex;
    gap: 20px;
+   background-color: indigo;
+   padding: 20px;
    margin-bottom: 20px;
   }
   
-  .nav div {
+  .logo, .social, .nav-links {
    background-color: rgb(219, 80, 126);
    width: 20%;
    padding: 10px;
   }
 
-  .nav-div {
+  .nav-links {
     flex: 2;
    }
 
-   .banner-div {
+  .banner {
     background-color: rgb(255, 136, 16);
     padding: 20px;
    }
 
-   .banner-div h2 {
+  .banner h2 {
     background-color: yellow;
     padding: 10px;
    }
 
-   .main {
-    background-color: black;
-    padding: 20px;
+  .main {
     display: flex;
     gap: 20px;
+    padding: 20px;
     margin-bottom: 20px;
+    background-color: black;
    }
 
-   .main-div-article {
+  .articles {
     background-color: rgb(132, 80, 181);
     padding: 20px;
     flex: 1;
@@ -64,35 +64,34 @@
     gap: 20px;
   }
    
-   .main-div-article div {
+  .article {
     background-color: rgb(91, 132, 229);
     padding: 10px;
    }
 
-   .main-div-article :last-child {
+  .articles :last-child {
     background-color: rgb(113, 255, 255);
     grid-column: span 2;
+    padding: 10px;
   }
 
-   .main-div-publi {
+  .publicitades {
     background-color: rgb(255, 43, 152);
     padding: 20px;
-    /* display: flex;
-    flex-direction: column; */
    }
 
-   .main-div-publi div {
+  .publicitad {
     background-color: yellow;
     padding: 10px;
     margin-bottom: 10px;
    }
 
-   footer {
+  footer {
     background-color: black;
     padding: 20px;
    }
 
-   footer div {
+  footer div {
     background-color: rgb(255, 192, 109);
     padding: 10px;
   }
