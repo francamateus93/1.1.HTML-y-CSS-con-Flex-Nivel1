@@ -101,6 +101,10 @@
 /* TABLET */
   @media (max-width: 992px) {
 
+    .header, .main, .footer {
+      background-color: rgb(88, 150, 97);
+    }
+
     .navigation {
       display: flex;
       flex-direction: column;
@@ -120,7 +124,11 @@
   }
 
 /* MÓVIL */
-  @media (max-width: 768px) {
+  @media (max-width: 576px) {
+
+    .header, .main, .footer {
+      background-color: rgb(199, 255, 77);
+    }
 
     .articles {
       display: flex;
