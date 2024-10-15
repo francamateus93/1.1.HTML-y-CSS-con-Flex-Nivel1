@@ -30,6 +30,13 @@
    background-color: rgb(219, 80, 126);
    width: 20%;
    padding: 10px;
+   transition: transform 0.5s
+  }
+
+  .logo:hover {
+    transform: scale(1.1);
+    background-color: rgb(208, 157, 255);
+    cursor: pointer;
   }
 
   .nav-links {
