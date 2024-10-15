@@ -7,30 +7,30 @@ El proyecto tiene como objetivo desarrollar un Layout que debe funcionar tanto e
 
 **💻 Tecnologías Utilizadas**
 
-HTML
-CSS (Flexbox)
-Git y Github
-VSCode
+- HTML
+- CSS (Flexbox)
+- Git y Github
+- VSCode
 
 
 **📋 Requisitos**
 
-Dispositivo
-Navegador Web y Conexión a Internet
-Archivo HTML y CSS
+- Dispositivo
+- Navegador Web y Conexión a Internet
+- Archivo HTML y CSS
 
 
 **🛠️ Instalación**
 
-Clona este repositorio: -> git clone
-Accede al directorio del proyecto: cd 1.1.HTML-y-CSS-con-Flex-Nivel1
+- Clona este repositorio: -> git clone
+- Accede al directorio del proyecto: cd 1.1.HTML-y-CSS-con-Flex-Nivel1
 
 
 **▶️ Ejecución**
 
-Abra el servidor en vivo en su navegador
+- Abra el servidor en vivo en su navegador
 
 
 # Notes
 
-Un proyecto estudiantil creado en IT Academy, en el bootcamp de Front End Angular/React en Barcelona Activa.
+- Un proyecto estudiantil creado en IT Academy, en el bootcamp de Front End Angular/React en Barcelona Activa.
