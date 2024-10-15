@@ -1,0 +1,23 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+  }
+  body {
+   font-size: 100%;
+   list-style-type: none;
+   padding: 20px;
+   background-color: black;
+  }
+  
+  .nav {
+   background-color: indigo;
+   padding: 20px;
+   display: flex;
+   gap: 10px;
+  }
+  
+  .nav-div {
+   background-color: rgb(219, 80, 126);
+  }
